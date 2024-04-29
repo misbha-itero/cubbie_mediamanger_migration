@@ -1,0 +1,68 @@
+{
+    "project_info": {
+      "project_number": "531451339187",
+      "firebase_url": "https://cubbie-light-default-rtdb.firebaseio.com",
+      "project_id": "cubbie-light",
+      "storage_bucket": "cubbie-light.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:531451339187:android:e440094648fd9f24d7ebc6",
+          "android_client_info": {
+            "package_name": "com.cubbie_lightmanager_migration"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBpsnzA97voLYfVzVtHhhpl-4OGK_Rzwbc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:531451339187:android:8f0199cd5ac19a14d7ebc6",
+          "android_client_info": {
+            "package_name": "com.cubbie_mediamanager_migration"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBpsnzA97voLYfVzVtHhhpl-4OGK_Rzwbc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:531451339187:android:801de2a12ebd5281d7ebc6",
+          "android_client_info": {
+            "package_name": "com.cubbie_webserver_migration"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBpsnzA97voLYfVzVtHhhpl-4OGK_Rzwbc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
